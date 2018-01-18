@@ -1,0 +1,4 @@
+troposphere>=2.1.2
+yasha
+yq
+boto3
